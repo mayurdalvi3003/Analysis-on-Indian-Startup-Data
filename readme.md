@@ -29,16 +29,19 @@ git clone https://github.com/your-username/indian-startups-analysis.git
 
 **Technologies Used:**
 
-`Python`
-`Pandas`
-`Matplotlib`
-`Streamlit`
+`Python`,
+`Pandas`,
+`Matplotlib`,
+`Streamlit`,
 
 **Directory Structure:**
+
 `startup_cleaned_date.csv`: Contains the dataset used for analysis.
-app.py: Main file for the Streamlit application.
+
+`app.py`: Main file for the Streamlit application.
 
 **Contribution Guidelines:**
+
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 Let's continue to explore the dynamic world of Indian startups together! 🚀🇮🇳 #IndianStartups #DataAnalysis #DataVisualization #Streamlit #GitHubProject
