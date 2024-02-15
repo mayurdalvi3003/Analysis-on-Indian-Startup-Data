@@ -18,10 +18,13 @@ Transformed the analysis into an interactive Streamlit website for a user-friend
 Navigable interface allowing users to explore and interact with the data effortlessly.
 
 `How to Use the Streamlit Website:`
+
 **Clone the Repository:**
+
 git clone https://github.com/your-username/indian-startups-analysis.git
 
 **Run the Streamlit App:**
+
 `streamlit run app.py`
 
 **Technologies Used:**
