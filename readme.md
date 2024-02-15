@@ -4,6 +4,7 @@
 Welcome to the Indian Startups Analysis project! 🌐 This repository is a comprehensive exploration of data related to Indian startups, presented through insightful visualizations and an interactive Streamlit website.
 
 `Project Overview:`
+
 `Data Analysis:`
 Conducted in-depth analysis on diverse aspects of the Indian startup ecosystem.
 Explored key metrics, funding trends, and industry distributions.
